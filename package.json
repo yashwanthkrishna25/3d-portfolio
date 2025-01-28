@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "host": "vite --host"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "dat": "^14.0.3",
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.11.4",
+    "stats": "^1.0.0",
+    "three": "^0.149.0"
+  }
+}
